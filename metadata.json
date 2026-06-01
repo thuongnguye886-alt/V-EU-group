@@ -1,0 +1,6 @@
+{
+  "name": "WanderVerse Travel Platform",
+  "description": "A high-end, futuristic travel discovery platform featuring interactive AI journey-planning, beautiful glassmorphism designs, premium categories, and an interactive 3D globe showing Vietnam's top destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
